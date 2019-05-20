@@ -1,0 +1,14 @@
+{
+  "name": "esri-startups",
+  "version": "1.0.0",
+  "description": "Esri Spain Startup Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "calcite-web": "github:esri/calcite-web#v1.0.0-beta.30"
+  }
+}
